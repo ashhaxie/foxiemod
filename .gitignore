@@ -16,6 +16,8 @@ out
 # gradle
 build
 .gradle
+libs
+logs
 
 # other
 eclipse
@@ -23,3 +25,13 @@ run
 
 # Files from Forge MDK
 forge*changelog.txt
+
+#OS Stuffs
+*/.DS_Store
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
